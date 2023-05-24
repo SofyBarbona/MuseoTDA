@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1667822461 source:c:\users\aula11\desktop\sofiabarbona\director.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Museo.h"
+	"Director.h"
+	"ObraDeArte.h"
+
+1667825098 c:\users\aula11\desktop\sofiabarbona\museo.h
+
+1667825098 c:\users\aula11\desktop\sofiabarbona\director.h
+
+1667825098 c:\users\aula11\desktop\sofiabarbona\obradearte.h
+
+1667825205 source:c:\users\aula11\desktop\sofiabarbona\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Museo.h"
+	"Director.h"
+	"ObraDeArte.h"
+
+1667825205 source:c:\users\aula11\desktop\sofiabarbona\museo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Museo.h"
+	"Director.h"
+	"ObraDeArte.h"
+
+1667824004 source:c:\users\aula11\desktop\sofiabarbona\obradearte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Museo.h"
+	"Director.h"
+	"ObraDeArte.h"
+
